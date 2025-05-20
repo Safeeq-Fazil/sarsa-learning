@@ -1,4 +1,4 @@
-# SARSA Learning Algorithm
+# EXP 6 -SARSA Learning Algorithm
 
 ## AIM
 To implement SARSA Learning Algorithm.
